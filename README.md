@@ -1,1 +1,1 @@
-# Laborator-1
+# lab2mobile
